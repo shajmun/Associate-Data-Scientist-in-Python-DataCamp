@@ -1,4 +1,4 @@
-# Los Angeles Crime Data Analysis 🕵️‍♂️
+# Los Angeles Crime Data Analysis 
 
 ## Project Overview
 This project performs an exploratory data analysis (EDA) on Los Angeles crime data to identify temporal, spatial, and demographic patterns. Using Python and the pandas library, the analysis answers key questions regarding when and where crimes occur, as well as the age demographics of victims.
